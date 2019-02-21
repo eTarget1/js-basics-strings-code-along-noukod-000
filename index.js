@@ -3,4 +3,5 @@ const currentUser = "Clifford LOUIS";
 
 const welcomeMessage = `Welcome to Flatbook,  ${currentUser}!`;
 
-const excitedWelcomeMessage = `Welcome to Flatbook,`
+const excitedWelcomeMessage = 'Welcome to Flatbook,'
+ 
